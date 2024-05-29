@@ -4,6 +4,9 @@
       "path": "App"
     },
     {
+      "path": "TesAppEtt.Test"
+    },
+    {
       "path": ".AL-Go"
     }
   ],
