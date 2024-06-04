@@ -16,6 +16,12 @@
       "name": "NewApp",
       "id": "58a46c35-dedd-4a61-9c02-abf2aaf79bb0",
       "version": "1.0.0.0"
+    },
+    {
+      "publisher": "Dizparc",
+      "name": "OtherApp",
+      "id": "9445bb81-8e33-45c4-8353-7e67c58682a5",
+      "version": "1.0.0.0"
     }
   ],
   "screenshots": [],
