@@ -3,12 +3,12 @@
   "appFolders": [],
   "testFolders": [],
   "bcptTestFolders": [],
-  "appDependencyProbingPaths”: [
+  "appDependencyProbingPaths": [
     {
-      “repo”: “https://github.com/AlGoWorkshopALM/TesAppEtt”,
-      “release_status”: “latestBuild”,
-      “AuthTokenSecret”: “ACCESSREPO”
+      "repo": "https://github.com/AlGoWorkshopALM/TesAppEtt",
+      "release_status": "latestBuild",
+      "AuthTokenSecret": "ACCESSREPO"
     }
   ],
-  "generateDependencyArtifact”: true
+  "generateDependencyArtifact": true
 }
