@@ -5,7 +5,7 @@
   "bcptTestFolders": [],
   "appDependencyProbingPaths": [
     {
-      "repo": "https://github.com/AlGoWorkshopALM/TesAppEtt",
+      "repo": "https://github.com/AlGoWorkshopALM/OtherAppDep",
       "release_status": "latestBuild",
       "AuthTokenSecret": "ACCESSREPO"
     }
